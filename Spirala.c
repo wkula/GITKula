@@ -1,11 +1,11 @@
-#include <stdio.h>
+#include <stdio.h>ddddd
 #define N 4
 
 int main()
 {
     int tab[N][N];
     int i=0,j=0,k,n=1,m=1,obieg=0;
-    
+
 
     for(k=0;k<N*N;k++)
     {
