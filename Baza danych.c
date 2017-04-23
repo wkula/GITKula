@@ -1,4 +1,4 @@
-#include <stdio.h>
+#include <stdio.h>ggg
 #include <stdlib.h>
 #define N 15
 
@@ -57,5 +57,5 @@ int main()
     book=malloc(sizeof(struct telebook));
     struct telebook tmp={"Janusz","Kowalski",123456789};
     book[0]=tmp;
-    
+
 }

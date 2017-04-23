@@ -1,4 +1,4 @@
-#include "bst.h"
+#include "bst.h"lol
 
 void Dodaj (Wezel** droga)
 {
